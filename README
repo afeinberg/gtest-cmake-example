@@ -1,0 +1,1 @@
+Run GTEST_ROOT=/where/google/test/is/installed/ cmake . && make && make test
